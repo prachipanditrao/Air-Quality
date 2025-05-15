@@ -2,6 +2,9 @@
 
 BreatheEasy is a web application designed to provide users with real-time air quality information for any location they select on an interactive map. It leverages the Open-Meteo API to fetch air quality data, including levels of Carbon Monoxide (CO), Carbon Dioxide (CO₂), and Dust.
 
+# Application Demo
+https://breathe-easy-air-quality-prachipanditraos-projects.vercel.app/
+
 ## Features
 
 - **Interactive Map:** Users can click on any location on a Google Map to get air quality data.
